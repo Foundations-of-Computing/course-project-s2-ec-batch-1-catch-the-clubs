@@ -11,7 +11,7 @@ Features:
 - 🔍 Search Functionality: Quickly find clubs using the search bar.
 - 🎭 Filter by Category: View clubs based on different genres like **Technology, Music, Literature**, etc.
 - 🌟 Club of the Day: Get a daily highlight of a featured club.
-- 
+
 How It Works:
 
 1. Home Page (`main.html`)
