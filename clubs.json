@@ -1,0 +1,380 @@
+[
+    {
+        "name": "Coding Club",
+        "description": "Learn and build projects!",
+        "category": "Technology",
+        "details": "<p>History:</p>The Coding Club at the College of Engineering Trivandrum (CET) is a student-driven initiative aimed at enhancing the coding skills of its members. The club regularly organizes online coding contests and subsequent discussion sessions to help students improve their problem-solving abilities and prepare for technical interviews. By fostering a collaborative environment, the Coding Club encourages students from various disciplines to engage in coding activities and develop their technical competencies. (cse.cet.ac.in)"
+    },
+    {
+        "name": "ROBOCET",
+        "description": "Build and innovate mini robots using latest electronic technologies",
+        "category": "Technology",
+        "details": "<p>History:</p>RoboCET, the robotics club of the College of Engineering, Trivandrum (CET), was established in April 2008 by a group of enthusiastic students passionate about robotics. Since its inception, the club has been dedicated to fostering innovation and technical skills among students. RoboCET regularly conducts classes, workshops, and exhibitions on robotics, and has organized various robotics competitions both within and outside the college."
+    },
+    {
+        "name": "RANGAVEDHI",
+        "description": "Express yourself on stage.",
+        "category": "Arts",
+        "details": "<p>History:</p>Rangavedhi is the official theatrical club of the College of Engineering, Trivandrum (CET). The club provides a platform for students passionate about drama and theater to showcase their talents and engage in various theatrical productions. Rangavedhi has been instrumental in organizing and participating in numerous performances, contributing significantly to the cultural landscape of CET."
+    },
+    {
+        "name": "CET SPORTS UNION",
+        "description": "Stay fit and play.",
+        "category": "Sports",
+        "details": "<p>History:</p>The CET Sports Council serves as the central body overseeing sports and athletic activities at the College of Engineering, Trivandrum (CET). It plays a pivotal role in organizing and promoting various sports events, fostering a culture of physical fitness and teamwork among students. The council has been instrumental in hosting events such as the Annual Athletic Meet for the academic year 2023-24, providing a platform for students to showcase their athletic prowess. (instagram.com)"
+    },
+    {
+        "name": "SHUTTERBUGS",
+        "description": "Capture the moment at CET's own unique photography club",
+        "category": "Photography",
+        "details": "<p>History:</p>CET Shutterbugs is the official photography club of the College of Engineering, Trivandrum (CET). It was established to bring together photography enthusiasts within the college, providing a platform to exhibit their work and enhance their skills. The club has grown into a vibrant community that organizes various events, workshops, and exhibitions, fostering a culture of creativity and visual storytelling on campus."
+    },
+    {
+        "name": "CET FILM SOCIETY",
+        "description": "Together we discuss, embrace and comment on the world of movies",
+        "category": "Arts",
+        "details": "<p>History:</p>The CET Film Society is a purpose-driven community of enthusiastic students at the College of Engineering, Trivandrum (CET), who believe in and embrace the potency of the art of cinema. The society aims to spotlight quality films, with a particular emphasis on independent movies. It encourages healthy discussions regarding the technical, political, and cultural aspects of films, providing platforms for students to gain insights into the influence of cinema as a social tool and a medium of expression. Additionally, the society focuses on furnishing opportunities for young and promising filmmakers to exhibit their creativity."
+    },
+    {
+        "name": "NSS CET",
+        "description": "Gives students the chance to take part in community service",
+        "category": "Community",
+        "details": "<p>History:</p>The National Service Scheme (NSS) at the College of Engineering, Trivandrum (CET), was inaugurated on October 18, 2006, with Unit No. 147. Since its inception, NSS CET has been one of the most active organizations on campus, capable of conducting over 25 programs annually amidst a busy academic schedule. The volunteer strength has grown to more than a hundred, and the organization now boasts a dedicated room for its activities. In alignment with the requirements of A.P.J. Abdul Kalam Technological University, a new NSS unit was also established.<p>Vision:</p>To develop socially responsible engineers by engaging students in community service, fostering empathy, leadership, and a commitment to societal development."
+    },
+    {
+        "name": "EXCELERATORS",
+        "description": "Gear up minds for automobile building.",
+        "category": "Engineering",
+        "details": "<p>History:</p>Excelerators CET is the official Go-Kart Racing and SAE Electric Bike competition team of the College of Engineering, Trivandrum (CET). Founded in 2019 by a group of automobile enthusiasts, the team has rapidly advanced in the design, analysis, and manufacturing of Go-Karts and E-Bikes. Their achievements include securing All India Rank (AIR) 8 and AIR 1 in the endurance round of the SAE Electric Bike Design Competition (2022), AIR 2 in the FMAE Formula Kart Design Challenge Online (2021), and AIR 7 in the FMAE National Online E-Bike Design Competition (2020)."
+    },
+    {
+        "name": "ASTRO CET",
+        "description": "Curious about space? You came to the right spot.",
+        "category": "Science",
+        "details": "<p>History:</p>AstroCET, the astronomy club of the College of Engineering, Trivandrum (CET), was founded to ignite curiosity and passion for astronomy and space sciences among students. The club serves as a platform for space enthusiasts to explore celestial phenomena, conduct stargazing sessions, and engage in discussions on astrophysics and cosmology. Through hands-on projects, workshops, and collaborations with experts in the field, AstroCET continues to inspire students to delve deeper into the wonders of the universe."
+    },
+    {
+        "name": "VELO CET",
+        "description": "Rocketry club where we research, learn and unlearn about rockets.",
+        "category": "Engineering",
+        "details": "<p>History:</p>VeloCET, the rocketry club of the College of Engineering, Trivandrum (CET), was founded with the vision of advancing student knowledge and practical experience in aerospace and rocketry. The club provides a platform for students passionate about rocketry, aerodynamics, propulsion systems, and space exploration. Through hands-on projects, workshops, and participation in national and international rocketry competitions, VeloCET has established itself as a hub for aspiring aerospace engineers."
+    },
+    {
+        "name": "IEDC",
+        "description": "Fostering Innovation, Inspiring Entrepreneurship",
+        "category": "Engineering",
+        "details": "<p>History:</p>The Innovation and Entrepreneurship Development Centre (IEDC) at the College of Engineering, Trivandrum (CET), is a student-run organization established to promote and revitalize the entrepreneurial culture among CETians. Formed with the objective of providing a platform for students to pursue entrepreneurial ventures, IEDC-CET actively engages in organizing workshops, seminars, and events to foster innovation and entrepreneurship within the college community.<p>Vision:</p>To promote and foster an entrepreneurial culture in the college, providing a platform for students to pursue entrepreneurial ventures and contribute to economic and social development"
+    },
+    {
+        "name": "IET",
+        "description": "Empowering Engineers, Inspiring Innovation.",
+        "category": "Community",
+        "details": "<p>History:</p>The Institution of Engineering and Technology (IET) Student Chapter at the College of Engineering, Trivandrum (CET), was established in 2009. Since its inception, the chapter has been dedicated to fostering innovation and technical excellence among engineering students. It maintains an embedded systems research lab on campus, providing resources and support for experimentation and projects. The chapter organizes various workshops, seminars, and technical competitions, including the annual Innovation Challenge, which aims to ignite the passion for innovation among engineering students across Kerala.<p>Vision:</p>To cultivate a community of engineering students committed to technological advancement and innovation, providing resources and opportunities that bridge academic learning with real-world applications."
+    },
+    {
+        "name": "WATCH THE FREAKZ",
+        "description": "Unleashing Passion Through Dance.",
+        "category": "Arts",
+        "details": "<p>History:</p>Watch the Freakz(WTFz) is the official dance club of the College of Engineering, Trivandrum (CET). Established in 2012 by engineering students Akhil Mohammed, Shebin Shefy, and Vivek M H, the team quickly gained prominence by securing top positions in numerous competitions across Kerala. The team has performed at 17 competitions held in the state within a year of its inception and clinched prizes in 13 of them. This 13-member dance team has created a buzz in the college dance circuit. In recent years, WTFz has continued to showcase their talent and dedication. They were finalists in IDA's DESTINY 4.0 and secured first prizes at competitions hosted by St. Thomas College Thrissur, Mar Ivanios College Trivandrum, and IIST.<p>For a glimpse of their performances, you can watch this video:</p>Watch The Freakz - Choreo By Sidharth, Archana, Advaith<p>Vision:</p>To cultivate a vibrant community where students can express themselves through dance, fostering creativity, teamwork, and excellence in performance."
+    },
+    {
+        "name": "CET DANCE CLUB",
+        "description": "Expressing Rhythms, Uniting Souls.",
+        "category": "Arts",
+        "details": "<p>History:</p>The College of Engineering, Trivandrum (CET), boasts a vibrant dance community known as the CET Dance Club. This student-driven organization is dedicated to promoting dance as an art form and fostering a culture of creativity and expression among its members. The club actively participates in various cultural events and competitions, both within the college and at external venues, showcasing the diverse talents of CET students. Over the years, the CET Dance Club has become an integral part of the college's cultural landscape, inspiring students to pursue their passion for dance alongside their academic endeavors"
+    },
+    {
+        "name": "CETALKS",
+        "description": "Amplifying Voices, Connecting Minds.",
+        "category": "Community",
+        "details": "<p>History:</p>CETalks is the official campus radio of the College of Engineering, Trivandrum (CET). Established in January 2015 during the college's 75th anniversary celebrations, it began as an in-house talk series featuring eminent personalities from various fields. Over time, CETalks evolved into a dynamic platform, offering students opportunities to showcase their talents and engage in diverse discussions. Today, it streams online content, including talk shows, interviews, and cultural programs, reflecting the vibrant campus life at CET."
+    },
+    {
+        "name": "AEROCET",
+        "description": "Soaring Beyond Limits.",
+        "category": "Engineering",
+        "details": "<p>History:</p>AeroCET is the official aeronautical and aerospace club of the College of Engineering, Trivandrum (CET). Established to nurture the passion for aviation and space technologies among students, AeroCET provides a platform for research, innovation, and technical discussions in the field of aeronautics. The club actively participates in national and international competitions, conducts workshops, and collaborates with industry experts to enhance students' knowledge and practical skills in aerospace engineering."
+    },
+    {
+        "name": "HERACKLES",
+        "description": "Driven by Innovation, Fueled by Passion.",
+        "category": "Engineering",
+        "details": "<p>History:</p>Herackles is the official automobile club of the College of Engineering, Trivandrum (CET). Established with the vision of fostering innovation in the field of automotive engineering, Heracles provides a platform for students to design, build, and test various automotive projects. The club actively participates in national-level competitions such as SAE BAJA, Supra, and other automotive design challenges. With a focus on hands-on learning and collaboration, Heracles has become a hub for aspiring automobile engineers at CET."
+    },
+    {
+        "name": "FOLIUM",
+        "description": "Driving Towards a Sustainable Future.",
+        "category": "Environment",
+        "details": "<p>History:</p>Folium Eco-Drive is the official Shell Eco-marathon team of the College of Engineering, Trivandrum (CET). Established in 2023, the team is dedicated to designing, building, and testing energy-efficient vehicles. In 2025, they developed their first prototype electric vehicle, named Lunaris, featuring body panels made from a combination of flax fiber and glass fiber to reduce weight and carbon footprint. This innovation qualified them to participate in the Shell Eco-Marathon event at Lusail International Circuit, Doha, Qatar, from February 8th to 12th, 2025."
+    },
+    {
+        "name": "DSC",
+        "description": "Empowering Students through Technology and Collaboration.",
+        "category": "Technology",
+        "details": "<p>History:</p>The Developer Student Club (DSC) at the College of Engineering, Trivandrum (CET), is a Google Developers program established to enhance students' skills in mobile and web development. Inaugurated on October 9, 2018, the club has been instrumental in providing a platform for students to explore and collaborate on various technological domains, fostering a community of innovative developers."
+    },
+    {
+        "name": "ENCON CLUB",
+        "description": "Conserving Energy, Preserving Tomorrow.",
+        "category": "Environment",
+        "details": "<p>History:</p>The ENCON Club at the College of Engineering, Trivandrum (CET), was established in collaboration with Bharat Petroleum Corporation Limited (BPCL), Kochi Refinery, to promote energy conservation among the staff, students, and their families. The club undertakes various activities, including conducting awareness programs, performing energy audits, and promoting model projects focused on energy conservation."
+    },
+    {
+        "name": "ENVIRONMENTAL CLUB",
+        "description": "Nurturing Nature, Enriching Campus.",
+        "category": "Environment",
+        "details": "<p>History:</p>The Environmental Club at the College of Engineering, Trivandrum (CET), has been instrumental in promoting nature conservation activities within the campus. The club primarily focuses on enhancing greenery and conserving the biodiversity of the campus. Notable initiatives include surveying and documenting the diverse plant species, leading to the publication of books such as 'Feathered Friends of Our Campus' in 2006 and 'Flying Jewels of Our Campus' in 2007. Additionally, the club has developed an arboretum and manages an eco-corner adjacent to the canteen, which functions as a plant nursery."
+    },
+    {
+        "name": "ISTE",
+        "description": "Empowering Engineers, Enriching Futures.",
+        "category": "Technology",
+        "details": "<p>History:</p>The Indian Society for Technical Education (ISTE) Student Chapter at the College of Engineering, Trivandrum (CET), is one of the most active technical societies on campus, boasting a membership that includes over 80% of the student body. Established to enhance the professional and technical competencies of students and faculty, the ISTE CET Chapter has been instrumental in organizing a variety of programs aimed at career development, subject upgradation, and personality development. These initiatives include invited talks by industry experts, industrial visits, seminars, workshops, competitions, and mock interviews. The chapter's commitment to excellence has been recognized with accolades such as the Best Chapter Award from the ISTE Kerala Section."
+    },
+    {
+        "name": "ISNT",
+        "description": "Ensuring Integrity Through Non-Destructive Evaluation.",
+        "category": "Engineering",
+        "details": "The Indian Society for Non-Destructive Testing (ISNT) Student Chapter at the College of Engineering, Trivandrum (CET), was formally inaugurated on August 17, 2017, by Dr. J. David, Principal of CET, in the presence of Sri. G. Levin, Chairman of ISNT Trivandrum Chapter, and other executive members. The chapter aims to bridge the gap between theoretical knowledge and real-world applications in the field of Non-Destructive Testing (NDT). Since its inception, the chapter has organized various workshops, technical lectures, and field visits, including a one-day workshop on NDT on September 16, 2017, and visits to the Aruvikkara Water Treatment Plant and the Kudankulam Nuclear Power Plant in early 2018. The chapter boasts around 150 members across disciplines, including both undergraduate and postgraduate students."
+    },
+    {
+        "name": "SAEINDIA",
+        "description": "Driving Innovation, Engineering Excellence.",
+        "category": "Automobile",
+        "details": "<p>History:</p>The SAEINDIA Collegiate Club at the College of Engineering, Trivandrum (CET), is a student chapter of SAEINDIA, the premier professional society dedicated to advancing mobility engineering in India. The club aims to build technical and professional competence among students aspiring to be part of the global automotive sector. SAEINDIA CET encompasses four specialized clubs: FARRAGO, Zenith, Excelerators, and Herakles, each focusing on different aspects of automotive engineering and innovation."
+    },
+    {
+        "name": "IEEE SB",
+        "description": "Advancing Technology for Humanity.",
+        "category": "Technology",
+        "details": "<p>History:</p>The IEEE Student Branch at the College of Engineering, Trivandrum (IEEE SB CET), was established on June 15, 1983, as the first student branch under the IEEE Kerala Section. Since its inception, IEEE SB CET has been dedicated to fostering awareness among aspiring engineers about the latest technological innovations. Over the years, the branch has grown into a well-organized body comprising multiple societies, affinity groups, and special interest groups, actively promoting technological advancement and professional development among students."
+    },
+    {
+        "name": "LITSOC",
+        "description": "Where Words Reign and Expression Shapes Reality.",
+        "category": "literature",
+        "details": "<p>History:</p>The Literary Society of the College of Engineering, Trivandrum (LitSoc CET), was established to cultivate and enhance the literary and debating skills of students. Over the years, LitSoc has become a vibrant platform for students to engage in various literary activities, including organizing the annual literary fest, Carpe Dictum, as part of Dhwani, and hosting Model United Nations (MUNs) on an annual basis."
+    },
+    {
+        "name": "UNDER25 CET",
+        "description": "Unleashing Creativity, Celebrating Youth.",
+        "category": "Arts",
+        "details": "<p>History:</p>Under25 CET is the official chapter of the Under25 Club at the College of Engineering, Trivandrum (CET). It was established to provide a platform for young, creative minds to explore and express their talents across various domains, including arts, media, entrepreneurship, and entertainment. The club organizes engaging events, workshops, and interactive sessions, bringing together students with diverse interests and fostering a culture of innovation and collaboration."
+    },
+    {
+        "name": "GOOGLE DEVELOPER STUDENT CLUB",
+        "description": "Connect Learn  Grow.",
+        "category": "Technology",
+        "details": "<p>History:</p>The Google Developer Student Club at the College of Engineering, Trivandrum (GDSC CET), is a student-led community dedicated to fostering a collaborative environment for aspiring developers. The club empowers individuals to connect, learn, and grow with the latest Google technologies through peer-to-peer learning and hands-on experiences. GDSC CET provides an excellent platform for students to explore cutting-edge technologies and improve their development skills. Through workshops, coding events, and hackathons, members have the opportunity to work on real-world projects and build innovative solutions that address modern challenges."
+    },
+    {
+        "name": "IGS CET",
+        "description": "Building the Foundations of Knowledge.",
+        "category": "Engineering",
+        "details": "<p>History:</p>The Indian Geotechnical Society (IGS) Student Chapter at the College of Engineering, Trivandrum (CET), was established in 2018 to motivate students by providing exposure to careers and opportunities in geotechnical engineering, as well as to develop leadership skills among students. The chapter aims to promote closer interaction among geotechnical engineers and students, facilitating knowledge sharing and professional development."
+    },
+    {
+        "name": "ICI CET",
+        "description": "Building the Future with Concrete Knowledge.",
+        "category": "Engineering",
+        "details": "<p>History:</p>The Indian Concrete Institute (ICI) Student Chapter at the College of Engineering, Trivandrum (CET), was established to bridge the gap between academic learning and practical applications in concrete technology and construction. As an active club on campus, it organizes various events throughout the year, aiming to enhance students' understanding and skills in civil engineering. These activities include technical lectures, workshops, site visits, and competitions, providing invaluable exposure to real-world engineering challenges."
+    },
+    {
+        "name": "AMERICAN SOCIETY OF CIVIL ENGINEERS",
+        "description": "Celebrating Engineering Through Field Visits, Technical Talks, Workshops, and More.",
+        "category": "Engineering",
+        "details": "<p>History:</p>The American Society of Civil Engineers (ASCE) Student Chapter at the College of Engineering, Trivandrum (CET), was established in 2021. As part of a global network representing over 150,000 civil engineering professionals in 177 countries, the chapter aims to develop and apply innovative, state-of-the-art practices and technologies, emphasizing the essential role of civil engineers in society."
+    },
+    {
+        "name": "MATHLETES CET",
+        "description": "Where Numbers Meet Passion.",
+        "category": "Science",
+        "details": "<p>History:</p>Mathletes CET is the mathematics club of the College of Engineering, Trivandrum (CET). The club aims to foster a love for mathematics among students by organizing various events and competitions that challenge and enhance their analytical and problem-solving skills. Over the years, Mathletes CET has collaborated with other student organizations, such as the Indian Concrete Institute (ICI) CET Student Chapter, to conduct events like 'Matrix for Juniors' as part of 'Pantheon for Juniors'."
+    },
+    {
+        "name": "NCC",
+        "description": "Unity and Discipline.",
+        "category": "Community",
+        "details": "<p>History:</p>The National Cadet Corps (NCC) unit at the College of Engineering, Trivandrum (CET), was established in the academic year 2020-21 with the inception of a Naval NCC unit comprising 150 cadets. This initiative reflects CET's commitment to fostering discipline, leadership, and a sense of national service among its students."
+    },
+    {
+        "name": "CET BBC",
+        "description": "Be the voice, not an echo.",
+        "category": "Community",
+        "details": "<p>History:</p>The Be Bold and Confident (BBC) Club at the College of Engineering, Trivandrum (CET), was initiated by the CET Alumni Association (CETAA) and officially launched on October 30, 2020. The club aims to empower and uplift students by enhancing their confidence and communication skills through various activities and sessions."
+    },
+    {
+        "name": "CODERS",
+        "description": "Empowering Coders, One Line at a Time.",
+        "category": "Technology",
+        "details": "<p>History:</p>The Coding Club at the College of Engineering, Trivandrum (CET), is a student-driven initiative aimed at enhancing the coding skills of its members. The club regularly organizes online coding contests and subsequent discussion sessions to help students improve their problem-solving abilities and prepare for technical interviews."
+    },
+    {
+        "name": "SCORE@CET",
+        "description": "Empowering a Sustainable Future.",
+        "category": "Environment",
+        "details": "<p>History:</p>SCORE@CET, the Student Club of Renewable Energy at the College of Engineering, Trivandrum (CET), was established to promote awareness and knowledge about renewable energy technologies among students. The club engages in various activities, including workshops, seminars, and projects, to encourage the adoption of sustainable energy solutions within the campus and the broader community."
+    },
+    {
+        "name": "CET QUIZ CLUB",
+        "description": "You know more than you think. Come test your knowledge with us!",
+        "category": "Science",
+        "details": "<p>History:</p>The CET Quiz Club is one of the oldest and most active clubs at the College of Engineering, Trivandrum (CET). It conducts weekly informal sessions and regular quizzing events on campus. The club also organizes inter-college and open quiz competitions during cultural and technical fests like Dhwani and Drishti. One of its flagship events, Eroteme, is a highly anticipated annual quiz competition attended by quizzers from within and outside the state. Notably, Quiz Master Major Chandrakant Nair has hosted all four editions of Eroteme."
+    },
+    {
+        "name": "TINKERHUB",
+        "description": "Empowering Students Through Technology and Community.",
+        "category": "Technology",
+        "details": "<p>History:</p>TinkerHub CET is the official chapter of TinkerHub Foundation at the College of Engineering, Trivandrum (CET). The club was established to expose students to technology, resources, and people beyond the academic curriculum, fostering interdisciplinary interaction across different departments and academic years. TinkerHub CET aims to equip students with the latest technological knowledge and skills, preparing them for the competitive world beyond college."
+    },
+    {
+        "name": "AMATEUR RADIO CLUB",
+        "description": "Connecting the World Through Waves.",
+        "category": "Technology",
+        "details": "<p>History:</p>The Amateur Radio Club at the College of Engineering, Trivandrum (CET), was first established in 1984 to popularize amateur radio among students. In 2021, the club was revived and renamed the 'Dr. R. Jayaraman Memorial Amateur Radio Club' in honor of Dr. R. Jayaraman, former Principal of CET and Director of Technical Education, Government of Kerala, who was the driving force behind the club and its founding custodian."
+    },
+    {
+        "name": "MALAYALAM CLUB CET",
+        "description": "Celebrating the Essence of Malayalam.",
+        "category": "literature",
+        "details": "<p>History:</p>The Malayalam Club at the College of Engineering, Trivandrum (CET), is a cultural organization dedicated to promoting and celebrating the rich heritage of the Malayalam language and literature among students. The club organizes various events, including literary discussions, poetry sessions, and cultural programs, to foster an appreciation for Malayalam culture within the campus community."
+    },
+    {
+        "name": "GLITCH",
+        "description": "Code. Create. Conquer.",
+        "category": "Technology",
+        "details": "<p>History:</p>Glitch CET is the official game development club of the College of Engineering, Trivandrum (CET), where creativity meets technology to bring immersive gaming experiences to life. Officially launched on February 20, 2025, the club provides a collaborative space for coders, designers, artists, storytellers, and gaming enthusiasts to explore, learn, and build games from scratch."
+    },
+    {
+        "name": "CETUNES",
+        "description": "Harmonizing Talent, Amplifying Passion.",
+        "category": "Music",
+        "details": "<p>History:</p>CETunes is the official music club of the College of Engineering, Trivandrum (CET). It serves as a platform for students to explore and showcase their musical talents, fostering a vibrant musical culture within the campus. The club organizes various events, including musical performances, workshops, and collaborations, enriching the cultural tapestry of CET."
+    },
+    {
+        "name": "H2O CET",
+        "description": "Extending Hands, Transforming Lives.",
+        "category": "Community",
+        "details": "<p>History:</p>H2O CET is the official student wing of the Helping Hands Organisation (H2O), an NGO based in Thiruvananthapuram. The organization focuses on autism and disability rehabilitation, along with providing holistic education to underprivileged children. With a volunteer strength of more than 100, the club organizes various college-level events for fundraising purposes. Additionally, student volunteers actively participate in weekly classes and initiatives aimed at assisting the elderly."
+    },
+    {
+        "name": "BUILD CET",
+        "description": "Innovate, Build, Inspire.",
+        "category": "Technology",
+        "details": "<p>History:</p>Build Club CET is a dynamic, tech-focused community at the College of Engineering, Trivandrum (CET), formed through a collaboration between IIT Madras Incubation Cell and CET. The club aims to foster innovation and invention by providing students with opportunities to work on projects spanning artificial intelligence, machine learning, robotics, and more. It serves as a platform for students to develop essential skills, engage in problem-solving, and cultivate an entrepreneurial mindset."
+    },
+    {
+        "name": "CHATURANGA CET",
+        "description": "Strategize, Compete, Triumph.",
+        "category": "Sports",
+        "details": "<p>History:</p>Chaturanga CET, the official chess club of the College of Engineering, Trivandrum (CET), was established in 2022. The club aims to bring together chess enthusiasts within the college, providing a platform for players to connect, learn, and compete. Chaturanga CET organizes various events, including online chess tournaments, to foster a vibrant chess culture on campus."
+    },
+    {
+        "name": "PRISM CET",
+        "description": "Embracing Diversity, Empowering Identities.",
+        "category": "Business",
+        "details": "<p>History:</p>Prism CET is the first constituted queer club at the College of Engineering, Trivandrum (CET), dedicated to supporting and empowering LGBTQIA+ students and allies within the campus community. The club aims to create a safe and inclusive space for individuals to express themselves, engage in meaningful discussions, and promote awareness about queer issues. Prism CET organizes various events, workshops, and campaigns to foster understanding and acceptance of diverse identities."
+    },
+    {
+        "name": "INVESTOR CELL",
+        "description": "Empowering Financial Acumen",
+        "category": "Business",
+        "details": "<p>History:</p>Investor CET is the finance and investment management club at the College of Engineering, Trivandrum (CET). The club aims to provide a platform for enthusiastic students to delve into the intriguing world of finance. It organizes a range of activities catering to individuals interested in finance, even those with no prior knowledge in the field. Key initiatives include hosting introductory sessions featuring prominent industry leaders and CET alumni, offering valuable insights into the latest trends in the financial industry. Additionally, the club organizes lectures and discussions covering a wide array of topics, keeping members informed about global financial developments. Investor CET also facilitates connections between members and CET alumni established in the finance sector, providing networking opportunities that allow students to gain practical knowledge about finance as it applies to specific job roles and industries. Through Investor CET, students can acquire personal finance knowledge and insights into investment strategies, including the stock market, mutual funds, and various other financial instruments."
+    },
+    {
+        "name": "MULEARN",
+        "description": "Bridging the Gap Between Students and Industries.",
+        "category": "Technology",
+        "details": "<p>History:</p>Mulearn CET is the campus chapter of GTech mulearn at the College of Engineering, Trivandrum (CET). GTech mulearn is a community-driven initiative that fosters a culture of mutual learning through micro peer groups, aiming to bridge the gap between students and industries. The μLearn CET chapter provides a platform for students to collaborate, share knowledge, and develop skills relevant to the evolving technological landscape."
+    },
+    {
+        "name": "SPORTS CLUB",
+        "description": "Fostering Fitness, Building Team Spirit.",
+        "category": "Sports",
+        "details": "<p>History:</p>The Sports Club at the College of Engineering, Trivandrum (CET), operates under the Department of Physical Education, which has been integral to the institution since its inception. The department has continually developed and maintained sports facilities, fostering a culture that values physical fitness and sportsmanship among students. Over the years, CET has established a robust sports infrastructure, including a Multi-Purpose Indoor Hall, Fitness Centres, an Outdoor Stadium, Cricket Nets, Volleyball Courts, an Outdoor Basketball Court, and Mini Football Fields. These facilities have enabled the college to host and participate in various inter-collegiate and intra-collegiate sports events, contributing to a vibrant campus life."
+    },
+    {
+        "name": "FARRAGOCET",
+        "description": "Innovating Mobility, Engineering Excellence.",
+        "category": "Technology",
+        "details": "<p>History:</p>Farrago CET is the official Efficycle team of the College of Engineering, Trivandrum (CET). Established approximately five years ago by a group of technology and automobile enthusiasts, the team focuses on designing and building energy-efficient vehicles for competitions. Farrago CET has achieved notable success in the SAEINDIA Efficycle competitions, securing All India Rank 3 in 2020 and All India Rank 4 in 2021, being the top-ranked team from Kerala in both years."
+    },
+    {
+        "name": "PHILOSOPHY CET",
+        "description": "Exploring the Depths of Thought.",
+        "category": "literature",
+        "details": "<p>History:</p>The Philosophy Club at the College of Engineering, Trivandrum (CET), was established to provide a platform for students to engage in discussions and explorations of philosophical ideas and concepts. The club aims to foster critical thinking, ethical reasoning, and a deeper understanding of various philosophical perspectives among its members."
+    },
+    {
+        "name": "MATHRUKAM",
+        "description": "Embracing Tradition, Enriching Culture.",
+        "category": "Arts",
+        "details": "<p>History:</p>Mathrukam is a club at the College of Engineering, Trivandrum (CET), dedicated to promoting and preserving traditional art forms and cultural heritage. Established by a group of culturally inclined students and faculty members, the club aims to provide a platform for students to explore and engage with various traditional arts, fostering appreciation and participation within the campus community."
+    },
+    {
+        "name": "ZENITH",
+        "description": "Engineering Speed, Accelerating Innovation.",
+        "category": "Engineering",
+        "details": "<p>History:</p>Zenith Motorsport is the official Formula Student team of the College of Engineering, Trivandrum (CET), established in 2018. The team has participated in national-level competitions such as Supra SAE and Formula Bharat, achieving an All India Rank of 18 and securing 2nd place in Kerala, demonstrating significant potential and promise. (in.linkedin.com)"
+    },
+    {
+        "name": "WRITERS CLUB",
+        "description": "Where Words Reign and Expression Shapes Reality.",
+        "category": "literature",
+        "details": "<p>History:</p>The Literary Society, commonly known as LitSoc, at the College of Engineering, Trivandrum (CET), serves as the institution's premier platform for literary enthusiasts. It offers students opportunities to engage in various literary activities, including writing, debates, and discussions, fostering a vibrant culture of expression and creativity within the campus community. (instagram.com)"
+    },
+    {
+        "name": "CET MUN",
+        "description": "Construct. Consolidate.",
+        "category": "Community",
+        "details": "<p>History:</p>The Moddel United Nations (MUN) Club at the College of Engineering, Trivandrum (CET), known as CET MUN, serves as the official platform for students to engage in simulations of United Nations conferences. The club organizes events that provide participants with opportunities to develop skills in diplomacy, negotiation, and public speaking, fostering a deeper understanding of global issues. (instagram.com)"
+    },
+    {
+        "name": "EETI",
+        "description": "Empowering Engineers Through Innovation.",
+        "category": "Technology",
+        "details": "<p>History:</p>EETI CET is a campus community of the EETI Foundation at the College of Engineering, Trivandrum (CET). The EETI Foundation is dedicated to fostering innovation and technological advancement. The CET chapter aims to provide students with opportunities to engage in projects and initiatives that bridge the gap between academic learning and practical application. (instagram.com)"
+    },
+    {
+        "name": "ASME",
+        "description": "Setting the Standard for Excellence and Innovation.",
+        "category": "Engineering",
+        "details": "<p>History:</p>The American Society of Mechanical Engineers (ASME) Student Chapter at the College of Engineering, Trivandrum (CET), known as ASME CET, is dedicated to fostering technical knowledge through hands-on projects and interactive workshops. The chapter aims to inspire and empower the student community by organizing educational sessions and competitions that nurture creativity and engineering prowess. (Instagram)"
+    },
+    {
+        "name": "ICI",
+        "description": "Bridging Academia and Industry in Concrete Technology.",
+        "category": "Engineering",
+        "details": "<p>History:</p>The Indian Concrete Institute (ICI) Student Chapter at the College of Engineering, Trivandrum (CET), known as ICI CET Chapter, is a vibrant organization dedicated to bridging the gap between academic learning and practical application in civil engineering. The chapter organizes various notable events throughout the year, aiming to provide students with hands-on experience and exposure to real-world engineering challenges. (Source)"
+    },
+    {
+        "name": "BADMINTON CET",
+        "description": "Smash Beyond Limits.",
+        "category": "Sports",
+        "details": "<p>History:</p>The Badminton Club at the College of Engineering Trivandrum (CET) is a vibrant community dedicated to promoting the sport of badminton among students. The club has achieved notable success, including winning the KTU A-Zone Championship in October 2024. (Source) The club is guided by Coach Rahul Raveendran and led by Captain Alok. (Source)"
+    },
+    {
+        "name": "HANDBALL CET",
+        "description": "Empowering Players, Building Teams.",
+        "category": "Sports",
+        "details": "<p>History:</p>The Handball Club at the College of Engineering, Trivandrum (CET), is an active community dedicated to promoting and developing the sport of handball among students. The club regularly organizes events and training sessions to enhance players' skills and foster teamwork. Notably, the club hosted a Women's and Men's Handball Open Camp on September 30, 2024, at the college grounds. (Source)"
+    },
+    {
+        "name": "AI CET",
+        "description": "Fostering Innovation Through Technology.",
+        "category": "Technology",
+        "details": "<p>History:</p>While the College of Engineering, Trivandrum (CET), does not have a dedicated Artificial Intelligence (AI) Club, students interested in AI and related technologies often engage with TinkerHub CET. TinkerHub CET is a community that explores various technological domains, including AI, through workshops, projects, and collaborative learning. The club provides a platform for students to delve into emerging technologies and develop practical skills. (instagram.com)"
+    },
+    {
+        "name": "BASKETBALL CET",
+        "description": "Elevate Your Game.",
+        "category": "Sports",
+        "details": "<p>History:</p>The College of Engineering, Trivandrum (CET), boasts a rich tradition in basketball, supported by comprehensive facilities that include an outdoor basketball court near the Men's Hostel and a multi-purpose indoor hall featuring a basketball court. (Source) The CET basketball teams have actively participated in various intercollegiate tournaments, showcasing their dedication to the sport."
+    },
+    {
+        "name": "SHASTHRA CET",
+        "description": "Fostering Technical Excellence.",
+        "category": "Technology",
+        "details": "<p>History:</p>Shastra CET serves as the technical wing under the Student's Union of the College of Engineering Trivandrum (CET). It functions as a non-profit organization dedicated to fostering technical knowledge and innovation among students. (linkedin.com)"
+    }
+]
