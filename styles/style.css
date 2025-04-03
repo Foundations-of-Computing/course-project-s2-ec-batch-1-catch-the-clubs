@@ -1,0 +1,322 @@
+/*main body*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    overscroll-behavior: none;
+
+    background-image: url('https://images.unsplash.com/photo-1622547748225-3fc4abd2cca0?fm=jpg&q=60&w=3000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fG1pbmltYWwlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fHww');
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+html,
+body {
+    height: 100%;
+    overflow-x: hidden;
+}
+
+/*top portion*/
+.hero-section {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-image: url('https://images.unsplash.com/photo-1699891730676-037bed3c1bed?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+    color: white;
+}
+
+.hero-section::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 0;
+}
+
+.hero-content {
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    z-index: 2;
+    margin-top: 20px;
+}
+
+/* title catch the clubs*/
+.title {
+    font-family: 'Playfair Display', serif;
+    font-size: 5rem;
+    font-weight: 800;
+    text-align: left;
+    color: #cce9fe;
+    letter-spacing: 1.5px;
+}
+
+/* description near to catch the clubs*/
+.desc {
+    font-size: 1rem;
+    max-width: 40%;
+    text-align: right;
+    color: #e0e0e0;
+}
+
+/*search box*/
+.search-container {
+    width: 200%;
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+    position: relative;
+    z-index: 1;
+
+}
+
+.search-container input {
+    width: 400px;
+    padding: 12px;
+    border-radius: 8px;
+    color: #000000;
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.3s ease-in-out;
+}
+
+#search {
+    flex-grow: 1;
+    /* Allows it to expand */
+    max-width: 600px;
+    /* Limits its size */
+    background-color: #000000;
+    /* Light blue background */
+    color: #000000;
+    /* Dark text */
+}
+
+#search:hover {
+    background-color: #e6f7ff;
+}
+
+#search:focus {
+    background-color: white;
+    border-color: #2ecccc;
+    /* Green when focused */
+    outline: none;
+    /* Removes default focus outline */
+}
+
+
+/*Club list below*/
+.club-list {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+    max-width: 1000px;
+    margin: auto;
+    padding-top: 50px;
+}
+
+.club {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+    border-left: 5px solid #7f8c8d;
+}
+
+/* filter category*/
+.genre-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.genre-button {
+    padding: 10px 15px;
+    font-size: 1rem;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: #073362;
+    color: white;
+    transition: 0.3s;
+}
+
+.genre-button:hover {
+    background-color: #0a1928;
+}
+
+.club-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin: 10px 0;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.club-item:hover {
+    background-color: #e7e7e7;
+}
+
+/* Styling for the club details section */
+#club-details {
+    margin-top: 30px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    background-color: #f1f1f1;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#club-details h2 {
+    font-size: 2em;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+#club-details p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+#club-details span {
+    font-weight: bold;
+    color: #333;
+}
+
+.back-home-btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #0b3767;
+    color: white;
+    font-size: 1.1em;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.back-home-btn:hover {
+    background-color: #0c4581;
+}
+
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .title {
+        font-size: 1.5rem;
+    }
+
+    .club-list {
+        grid-template-columns: 1fr;
+    }
+
+    .title input {
+        width: 90%;
+    }
+}
+
+
+/*3 dots portion*/
+#floating-menu {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 100;
+}
+
+.menu-container {
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    z-index: 1000;
+}
+
+.menu-btn {
+    background: #333;
+    color: white;
+    border: none;
+    font-size: 28px;
+    cursor: pointer;
+    padding: 12px;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.menu-btn:hover {
+    background: #555;
+}
+
+.menu-options {
+    display: none;
+    position: absolute;
+    left: 0;
+    top: 50px;
+    background: white;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    overflow: hidden;
+    width: 200px;
+    text-align: left;
+}
+
+/* Menu Items */
+.menu-options a,
+.menu-options button {
+    display: block;
+    padding: 12px;
+    text-decoration: none;
+    border: none;
+    background: none;
+    width: 100%;
+    text-align: left;
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    transition: background 0.3s ease;
+}
+
+.menu-options a:hover,
+.menu-options button:hover {
+    background: #f4f4f4;
+}
+
+/*footer portion*/
+footer {
+    padding: 20px 0;
+    margin-top: 30px;
+    text-align: center;
+    background-color: #f4f4f4;
+    margin-bottom: auto;
+}
